@@ -1,9 +1,11 @@
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221122T102240Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4c125d66747f0dba6f708b56b3122239170a8a4f061ff8b9816f6dac02e98029)
+![](devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.azureedge.net/serve_file/@5ed2a3ace08d6077024f01e03930c3504cbb4e4c/&can_dock=true&panel=elements&isFeedbackEnabled=true&enabledExperiments=keyboardShortcutEditor;msEdgeVSCodeThemes#:~:text=https%3A//s3.amazonaws.com/alx%2Dintranet.hbtn.io/uplo%E2%80%A60351a8a793fcb7107f52ff1b7e12d1daadd8a173c33cbc74c)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uplo…0351a8a793fcb7107f52ff1b7e12d1daadd8a173c33cbc74c)
+
 # 0x00. AirBnB clone - The console
 ## Description of the project.
 The [Airbnb](https://www.airbnb.com/) Clone: The console. This repository holds a command interpreter and classes (such as; BaseModel classand other classes that inherit from BaseModel: Amenity, City, State, Place, Review), and a command interpreterlike a shell
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221124T105516Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a8d41e4aab51c916240154edbf3a113e87aa8df9792c9cf9b3af76c4cc51c32c)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uplo…6240154edbf3a113e87aa8df9792c9cf9b3af76c4cc51c32c)
 
 ### Command interpreter functionalities.
 * Create a new object (ex: a new User or a new Place)
